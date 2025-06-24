@@ -8,7 +8,7 @@ A simple Java banking application to perform deposits, withdrawals, and print ac
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/banking-service.git
+git clone https://github.com/amine-tayani/banking-service.git
 cd banking-service
 ```
 
